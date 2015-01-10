@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="plugin_log_error_no_permisson_INTERNET">没有网络访问权限</string>
+</resources>
